@@ -1,3 +1,3 @@
 # Receitas
 
-Colocaré aqui recetas interessantes para compartir, a maioria serán cópias rápidas para no perder elas
+Colocaré aqui recetas interesantes para compartir, la maioria serán copias rápidas para no perder elas.
