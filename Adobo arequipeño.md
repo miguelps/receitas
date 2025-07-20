@@ -14,7 +14,7 @@ Prepárate para disfrutar de un plato lleno de tradición y sabor, mientras expl
 
 - 500 gramos de carne de cerdo cortada en trozos (solomillo, bondiola o panceta)
 
-### Para la marinada:
+### Para la marinada
 
 - 1 cucharadita de sal
 - ½ cucharadita de pimienta
@@ -24,7 +24,7 @@ Prepárate para disfrutar de un plato lleno de tradición y sabor, mientras expl
 - 1 cucharada de ajo molido
 - 1 ½ cucharadas de ají panca molido
 
-### Para el resto de la receta:
+### Para el resto de la receta
 
 - 1 cebolla picada en cuadraditos
 - 1 cebolla cortada en tiras gruesas
@@ -32,6 +32,7 @@ Prepárate para disfrutar de un plato lleno de tradición y sabor, mientras expl
 - 1 cucharada de ajo molido
 - 1 ½ cucharadas de ají panca molido
 - ¼ de taza de vinagre tinto
+- ¼ de taza de vino tinto dulce
 - Sal
 - Pimienta
 - Comino
