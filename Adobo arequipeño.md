@@ -1,48 +1,121 @@
- # Adobo de chancho BUENAZO en 5 pasos [[video]](https://youtu.be/huaCybEi0Dc)
+# Adobo arequipeño (Brasil, sin chicha de jora)
 
-(4 porciones)
+(6 porciones · planificar con 1 día de anticipación)
 
-El adobo de chancho es una receta con mucha tradición. Para ser fieles a la técnica de preparación, hay que dejar marinar la carne sazonada toda la noche, por lo que es importante planificar.
+La chicha de jora fresca no se consigue en Brasil (ni en botella de verdad: es producto vivo, de maíz germinado). Esta receta mantiene el resto del perfil arequipeño — **ají panca**, **ajo**, **mucha cebolla**, especias de olla y cocción lenta **sin agua** — y reemplaza la chicha por un **líquido de adobo** casero que imita acidez + cereal + fermento ligero.
 
-Una de las capitales culinarias del Perú es la ciudad de Arequipa, conocida por su famoso adobo arequipeño. Se trata de un plato de carne de cerdo marinado con verduras y especias, cocinado todo junto en una olla. El resultado es un delicioso manjar que posee un sabor inigualable.
+Se come el domingo con pan para mojar el jugo y té de anís.
 
-Por lo general, se sirve con pan en los desayunos familiares de los domingos. El adobo es muy jugoso y se acompaña con té de anís para facilitar la digestión. Algunas familias tienen la costumbre de disfrutarlo después de asistir a la misa, en las picanterías.
+## Qué hace que sepa a Arequipa (aunque falte chicha)
 
-Prepárate para disfrutar de un plato lleno de tradición y sabor, mientras exploramos los ingredientes clave y los pasos necesarios para recrear esta joya culinaria arequipeña: el adobo de chancho.
+| Sí                                                | No                             |
+|---------------------------------------------------|--------------------------------|
+| Líquido ácido de maíz + cerveza clara (sustituto) | Malzbier / cerveza negra dulce |
+| Ají panca (color y aroma)                         | Solo vinagre “a lo escabeche”  |
+| Cebolla en tiras al final (mucho jugo)            | Poco sofrito y listo           |
+| Cocción en el líquido del adobo, sin agua         | Cubrir con agua                |
+| Canela + clavo + pimenta-da-jamaica               | Solo pimienta negra            |
+| Marinado ≥ 12 h                                   | Marinar y sellar como bifes    |
+
+## Dónde comprar
+
+- **Pasta de ají panca, rocoto, orégano peruano**: Mercado Livre, tiendas online de productos peruanos, o mercadinhos latinos/peruanos.
+- **Carne**: *pescoço de porco*, *costela*, *pernil* ou *sobrepaleta* **com osso**, pedaços grandes. Evitar lombo magro.
+- **Cebola roxa**, **pão francês**, **chá de erva-doce** — supermercado cualquiera.
+
+## Líquido de adobo (reemplazo de la chicha) — rinde ~900 ml
+
+Preparar **el mismo día del marinado**, enfriar del todo antes de usar.
+
+1. En una ollita: **450 ml de agua** + **3 cucharadas de fubá** (o 1 choclo/milho verde mediano licuado con un poco de agua). Hervir 3–4 min removiendo; debe quedar como una agua de maíz ligera, no una polenta. Colar si usaste fubá grueso. Dejar enfriar.
+2. Mezclar en frío:
+   - 450 ml de esa agua de maíz (fría)
+   - 375 ml de cerveza **pilsen clara** (Skol/Brahma/Original; **nunca** Malzbier ni stout) — aprox. 1 lata de 350 ml + un chorrito
+   - 3 cucharadas de **vinagre de vino tinto**
+   - 1½ cucharaditas de jugo de limón (opcional, si quieres más filo)
+   - 1 pizca de azúcar **solo si** el vinagre pega demasiado agresivo (la chicha tiene un dulzor mínimo de cereal; no endulzar)
+
+Prueba: debe saber **ácido y a maíz**, no a cerveza dulce ni a vinagre solo. Si queda plana, ½–1 cda. más de vinagre; si arde a vinagre, un chorrito más de pilsen o agua de maíz.
+
+Guarda **150 ml** aparte por si al cocinar hace falta completar el líquido. El resto (~750 ml) va a la marinada.
 
 ## INGREDIENTES
 
-- 500 gramos de carne de cerdo cortada en trozos (solomillo, bondiola o panceta)
+### Carne
 
-### Para la marinada
+- **1,5 kg** de cerdo en trozos grandes **con hueso** (pescoço / costela / pernil)
+- Sal gruesa al gusto (aprox. **2–3 cucharaditas**)
 
-- 1 cucharadita de sal
-- ½ cucharadita de pimienta
-- ½ cucharadita de comino
-- 1 cucharadita de orégano seco
-- ¼ de taza de vinagre tinto
-- 1 cucharada de ajo molido
-- 1 ½ cucharadas de ají panca molido
+### Marinada (noche anterior)
 
-### Para el resto de la receta
+- **3–4½ cucharadas** de **pasta de ají panca** (o ají panca seco remojado y licuado)
+- **1½ cabezas** de ajo peladas y molidas (o 9–12 dientes)
+- **1½ cucharaditas** de comino molido
+- **1½ cucharaditas** de orégano seco (machacado entre las manos)
+- **¾ cucharadita** de pimienta negra
+- **¾ cucharadita** de **pimenta-da-jamaica** (≈ *pimienta de chapa*)
+- **1–2 rajas** cortas de canela
+- **3–4 clavos** de olor
+- **750 ml del líquido de adobo** (arriba)
+- Opcional picante: **1–2 rocotos** enteros (sin abrir) o 1 sin semillas
 
-- 1 cebolla picada en cuadraditos
-- 1 cebolla cortada en tiras gruesas
-- ½ ají amarillo cortado en tiras delgadas
-- 1 cucharada de ajo molido
-- 1 ½ cucharadas de ají panca molido
-- ¼ de taza de vinagre tinto
-- ¼ de taza de vino tinto dulce
-- Sal
-- Pimienta
-- Comino
-- Orégano seco
-- Aceite vegetal
+### Para cocinar / terminar
+
+- **1½–2 cebollas** roxas picadas finas (fondo)
+- **5–6 cebollas** roxas en gajos o tiras gruesas (al final; son parte del plato)
+- Aceite neutro (muy poco)
+- Los 150 ml reservados del líquido de adobo, si hace falta apenas cubrir
+- Sal al gusto
+- Opcional: hortelã / hierbabuena al final
+
+### Para servir
+
+- Pan francés / baguete (contar ~1 por persona)
+- Chá de erva-doce
+- Variante almuerzo: arroz blanco y batata-doce amarela sancochada
 
 ## PREPARACIÓN
 
-1. Empezar por la marinada. Colocar los trozos de carne en un bowl y añadir sal, pimienta, comino, orégano, ajo, ají panca y vinagre tinto. Integrar bien con las manos y dejar adobar de un día para otro en la refrigeradora.
-2. Sellar la carne por tandas en una olla con poco aceite. Reservar la carne sellada y también reservar el líquido de la marinada.
-3. En la olla donde se selló la carne, agregar la cebolla picada en cuadraditos y sofreír, con una pizca de sal, hasta que quede traslúcida. Echar el ajo y seguir sofriendo por un par de minutos más. Luego, añadir el ají panca y cocinar (sin dejar de revolver) de 3 a 5 minutos, hasta integrar todos los sabores del aderezo.
-4. Regresar la carne sellada a la olla. Incorporar el líquido de la marinada, el vinagre tinto, sal, pimienta, comino y orégano. Agregar agua hasta cubrir la carne y rectificar la sazón. Cocinar por 30 minutos o hasta que la carne esté cocida. Hacia el final de la cocción, echar la cebolla y el ají amarillo en tiras.
-5. Servir con arroz blanco y camote amarillo sancochado.
+### 1. Marinar (víspera, mínimo 12 h)
+
+Carne + sal + ají panca + ajo + comino + orégano + pimientas + canela + clavo. Masajear bien.
+
+Cubrir con el **líquido de adobo** (debe bañar casi toda la carne). Rocoto entero si usas. Tapar y refrigerar **toda la noche**.
+**No tires el líquido.**
+
+### 2. Cocinar a fuego lento (sin agua)
+
+Sacar 20–30 min antes.
+
+Olla pesada (mejor grande: con 1,5 kg + cebollas llena): chorrito de aceite, sofrito de cebolla picada fina con pizca de sal hasta transparente.
+Agregar la carne **con todo el líquido de la marinada**. Si no cubre, completa con el líquido reservado — **no con agua**.
+
+Fuego bajo, tapa a medias, **50–80 min**, hasta carne tierna y caldo rojo-ámbar. Remover de vez en cuando. Si seca: más líquido de adobo; si sobra caldo: destapar y reducir.
+
+### 3. Cebolla de remate
+
+Cuando la carne esté lista, las cebollas en tiras. 10–15 min más: cocidas con cuerpo; el jugo espesa solo (cebolla + panca; **sin harina**).
+
+Probar sal. Hierbabuena opcional.
+
+### 4. Servir
+
+Plato hondo, **mucho jugo**, pan para mojar, té de anís. Domingo arequipeño = pan; arroz/camote es variante de almuerzo.
+
+## Notas rápidas
+
+1. **Malzbier** → sabor a postre; arruina el perfil.
+2. **Agua sola** → diluye panca y acidez; queda guiso genérico.
+3. **Sellado fuerte y botar marinada** → pierdes el plato.
+4. **Poca cebolla al final** → falta cuerpo y dulzor del jugo.
+5. **Lomo magro** → se seca; usa grasa + hueso.
+6. **Ají amarillo de protagonista** → aquí manda el **ají panca**.
+7. El sustituto no es chicha: se acerca por **maíz + acidez + cerveza clara**. Lo que sí puedes clavar en Brasil es panca, ajo, cebolla y especias.
+
+## Qué se cambió vs. la receta “con cerveza negra”
+
+- Fuera Malzbier, vino dulce y agua para cubrir.
+- Líquido de adobo casero en lugar de chicha (única opción realista en Brasil).
+- Canela, clavo y pimenta-da-jamaica de vuelta.
+- Servicio tradicional con pan.
+- Cantidades escaladas a **6 porciones** (×1,5 respecto a 4).
